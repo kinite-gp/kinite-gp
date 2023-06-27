@@ -15,6 +15,9 @@ Currently, programming is not my job and I have not even learned it academically
 ![Django](https://img.shields.io/badge/Django-2ea043?style=for-the-badge&logo=Django&logoColor=white)
 
 ### My stats
+![kinite-gp](https://github-readme-stats.vercel.app/api?username=kinite-gp&show_icons=true)
+
+### My Language
 ![kinite-gp](https://github-readme-stats.vercel.app/api/top-langs/?username=kinite-gp&layout=compact)
 
 ### How do you find me?
