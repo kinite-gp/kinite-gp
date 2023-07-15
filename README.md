@@ -11,6 +11,8 @@ Currently, programming is not my job and I have not even learned it academically
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-9679b7?style=for-the-badge&logo=C&logoColor=white)
 ![Php](https://img.shields.io/badge/Php-9999cc?style=for-the-badge&logo=php&logoColor=white)
+![Html](https://img.shields.io/badge/Html-dd4b25?style=for-the-badge&logo=html&logoColor=white)
+![Css](https://img.shields.io/badge/Css-254bdd?style=for-the-badge&logo=css&logoColor=white)
 
 ### What framework do I know?
 ![Django](https://img.shields.io/badge/Django-2ea043?style=for-the-badge&logo=Django&logoColor=white)
