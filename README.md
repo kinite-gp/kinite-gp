@@ -17,7 +17,6 @@ Currently, programming is not my job and I have not even learned it academically
 ### I can work with:
 [![Django](https://img.shields.io/badge/Django-2ea043?style=for-the-badge&logo=Django&logoColor=white)](https://www.djangoproject.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Linux](https://img.shields.io/badge/linux-%00000000.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ### My stats
 ![kinite-gp](https://github-readme-stats.vercel.app/api?username=kinite-gp&show_icons=true)
