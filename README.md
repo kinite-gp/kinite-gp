@@ -8,15 +8,36 @@ I am a programmer living in Iran. I am very interested in learning new things an
 Currently, programming is not my job and I have not even learned it academically. Programming is a great pastime for me and I learned it step by step from the internet.
 
 ### What languages do I understand?
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![C](https://img.shields.io/badge/C-9679b7?style=for-the-badge&logo=C&logoColor=white)](https://learn.microsoft.com/en-us/cpp/)
-[![Php](https://img.shields.io/badge/Php-9999cc?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Html](https://img.shields.io/badge/Html-dd4b25?style=for-the-badge&logo=html&logoColor=white)](https://html.spec.whatwg.org/)
-[![Css](https://img.shields.io/badge/Css-254bdd?style=for-the-badge&logo=css&logoColor=white)](https://www.w3.org/TR/CSS/#css)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-9679b7?style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Php](https://img.shields.io/badge/Php-9999cc?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+
 
 ### I can work with:
-[![Django](https://img.shields.io/badge/Django-2ea043?style=for-the-badge&logo=Django&logoColor=white)](https://www.djangoproject.com/)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+![Django](https://img.shields.io/badge/Django-2ea043?style=for-the-badge&logo=Django&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
+
 
 ### My stats
 ![kinite-gp](https://github-readme-stats.vercel.app/api?username=kinite-gp&show_icons=true)
