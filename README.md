@@ -1,7 +1,7 @@
 ### Hi there I am Mohammad Saleh
 
 
-## Software Developer from Iran
+## Developer from Iran
 
 I am a programmer living in Iran. I am very interested in learning new things and developing my ideas. I like high level languages and I always read about them.
 
